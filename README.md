@@ -2,7 +2,7 @@
 
 Version control for datasets and ML models using DVC with Google Cloud Storage.
 
-##My Contribution: 
+## My Contribution: 
 Added a new train.py and versioned a model.pkl and stored it in the gs (gs://data-versioning-dvc)
 
 ## Setup
