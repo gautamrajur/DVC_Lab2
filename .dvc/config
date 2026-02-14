@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://data-versioning-dvc
+    credentialpath = ../dvc-lab-487400-371c8d02c412.json
